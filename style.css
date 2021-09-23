@@ -17,3 +17,26 @@
     font-size: 25px;
     color: seagreen;
 }
+
+.result_para_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px darkcyan;
+}
+
+.copyright_footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: darkorchid;
+    color: deepskyblue;
+    text-align: left;
+    padding: 10px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid lawngreen;
+    box-shadow: 5px 5px 5px lightblue;
+    border-radius: 20px;
+    margin-top: 140px;
+}
